@@ -1,0 +1,4 @@
+venv
+.idea
+SBM/db.sqlite3
+SBM/SBM/__pycache__/
